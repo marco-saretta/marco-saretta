@@ -21,12 +21,6 @@ In my profile you'll find repositories on a range of topics within mathematical 
 | **pypsa-network-analyzer** | A package for faster analysis of PyPSA network files |
 | **yahei-DTU/mlops_loadconsumption** | Load consumption forecasting with CNNs |
 
-## 📫 **How to Reach Me**
-
-- DTU Email: mcsr@dtu.dk  
-- LinkedIn:  marcosaretta
-
-
 Feel free to reach out if anything catches your eye!
 
 Cheers,
