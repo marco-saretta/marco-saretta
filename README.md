@@ -1,8 +1,8 @@
-## Hi there!
+## Hello there!
 
-I'm Marco Saretta, an Industrial PhD working on energy system modelling. ⚡
+I'm Marco Saretta, an Industrial PhD working on energy system modelling ⚡
 
-Here you'll find repositories on a range of topics. A few highlights:
+In my profile you'll find repositories on a range of topics within mathematical modelling. Here I listed six:
 
 | Repository | Description |
 |---|---|
