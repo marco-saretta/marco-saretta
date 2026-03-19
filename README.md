@@ -1,17 +1,20 @@
-## Hello there!
+## Hi there!
 
-I am Marco Saretta, an Industrial PhD with a focus on energy system modelling ⚡
+I'm Marco Saretta, an Industrial PhD working on energy system modelling. ⚡
 
-Here you'll find some repositories on a variety of topics. I've listed six below:
+Here you'll find repositories on a range of topics. A few highlights:
 
-- **enlight**: a EU power market model for system analysis
-- **hydrogen-market-design**: the repo of my publication on the hydrogen market paper with all the supplementary material
-- **dtu-rl-hydro**: a personal repo with my journey learning about RL for hydropower scheduling
-- **methanol-plant-sizing**: a linear programming investment model for methanol plant sizing
-- **pypsa-network-analyzer**: a package to analyse faster a PyPSA network file  
-- **yahei-DTU/mlops_loadconsumption**: a project to forecast load consumption with CNN
+| Repository | Description |
+|---|---|
+| **enlight** | EU power market model for system analysis |
+| **hydrogen-market-design** | Supplementary material for my publication on hydrogen market design |
+| **dtu-rl-hydro** | Personal repo exploring reinforcement learning for hydropower scheduling |
+| **methanol-plant-sizing** | Linear programming investment model for methanol plant sizing |
+| **pypsa-network-analyzer** | A package for faster analysis of PyPSA network files |
+| **yahei-DTU/mlops_loadconsumption** | Load consumption forecasting with CNNs |
 
-Reach out if you're interested!
+Feel free to reach out if anything catches your eye!
+
 Cheers,
-Marco
 
+Marco
